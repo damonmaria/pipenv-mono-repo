@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "88fd25f5d89563fbabed9dffa7ce850b31da64f6b1876f4628929543ed5aaacd"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "local": {
+            "editable": true,
+            "path": "./../packages"
+        }
+    },
+    "develop": {}
+}
